@@ -75,4 +75,4 @@ Contributions are welcome! If you'd like to improve KisanBandhu, please follow t
 ## 👤 Author
 
 **Sumit**
--   GitHub: [@Sumit-1018](https://github.com/Sumit-1018)
+-   GitHub: [@mohitdayma16](https://github.com/mohitdayma16)
